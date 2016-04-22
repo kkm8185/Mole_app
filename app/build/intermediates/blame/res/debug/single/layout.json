@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\kkm\\StudioProjects\\Mole_kill1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input.xml",
+        "source": "C:\\Users\\kkm\\StudioProjects\\Mole_kill1\\app\\src\\main\\res\\layout\\input.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkm\\StudioProjects\\Mole_kill1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play.xml",
+        "source": "C:\\Users\\kkm\\StudioProjects\\Mole_kill1\\app\\src\\main\\res\\layout\\play.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkm\\StudioProjects\\Mole_kill1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kkm\\StudioProjects\\Mole_kill1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kkm\\StudioProjects\\Mole_kill1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\score.xml",
+        "source": "C:\\Users\\kkm\\StudioProjects\\Mole_kill1\\app\\src\\main\\res\\layout\\score.xml"
+    }
+]
